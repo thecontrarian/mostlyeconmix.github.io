@@ -1,6 +1,7 @@
 ---
-published: false
+published: true
 ---
+
 
 ## A New Post
 
@@ -29,5 +30,3 @@ monetary policy is carried out through the appropriate manipulation of the
 short-term nominal interest rate in an attempt to ensure that the desired 
 
 inflation rate is realised.
-
-
