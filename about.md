@@ -12,4 +12,4 @@ Currently Pursuing my PhD at IGIDR Mumbai. Interetsed in Time Series, Macroecono
 
 ### Contact me
 
-[email@domain.com](kumarabhishek@igidr.ac.in)
+[kumarabhishek@igidr.ac.in](kumarabhishek@igidr.ac.in)
