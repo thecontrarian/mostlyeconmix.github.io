@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Assistant Professor, Data is future, Aspiring Data Scientist, Work With R, Python, Matlab, Octave & Stata, Love Politics and Economics
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Currently Pursuing my PhD at IGIDR Mumbai. Interetsed in Time Series, Macroeconomics, Growth and anything that could be exciting. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](kumarabhishek@igidr.ac.in)
