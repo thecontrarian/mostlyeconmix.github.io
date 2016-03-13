@@ -20,6 +20,7 @@ summary(cars)
     ##  Max.   :25.0   Max.   :120.00
 
 You can also embed plots, for example:
+![Jekyll Now Theme Screenshot](/images/jekyll-now-theme-screenshot.jpg "Jekyll Now Theme Screenshot")
 
 ![Image description](my-first-blog_files/figure-markdown_github/unnamed-chunk-2-1.png)
 
