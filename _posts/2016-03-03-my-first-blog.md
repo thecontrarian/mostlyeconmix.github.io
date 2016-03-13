@@ -22,6 +22,6 @@ summary(cars)
 You can also embed plots, for example:
 ![Jekyll Now Theme Screenshot](/images/graph.png "Jekyll Now Theme Screenshot")
 
-![Image description](/my-first-blog_files/figure-markdown_github/unnamed-chunk-2-1.png)
+![Image description](/my-first-blog_files/figure-markdown_github/unnamed-chunk-2-1.png "Image description")
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
