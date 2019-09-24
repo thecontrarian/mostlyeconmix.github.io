@@ -1,6 +1,6 @@
 layout: page
-title: Research
-permalink: /research/
+title: Publications
+permalink: /publications/
 ---
 
 Assistant Professor, Data is future, Aspiring Data Scientist, Work With R, Python, Matlab, Octave & Stata, Love Politics and Economics
