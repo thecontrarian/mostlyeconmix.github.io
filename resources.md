@@ -4,6 +4,4 @@ title: Resources
 permalink: /resources/
 ---
 
-Assistant Professor, Data is future, Aspiring Data Scientist, Work With R, Python, Matlab, Octave & Stata, Love Politics and Economics
-
-### More Information
+Here you can find links of online resources thar may be useful for economists.
