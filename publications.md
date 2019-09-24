@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 
 #### Indian Growth is Not Overestimated: Mr. Subramanian You Got it Wrong (With Ashima Goyal) Accepted Macroeconomics and Finance in Emerging Market Economies 
-[Mentioned in Popular Press](https://www.google.com/url?q=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2019-06-20%2Feconomists-slug-it-out-as-debate-rages-over-india-s-gdp-data&sa=D&sntz=1&usg=AFQjCNFsTz0kxX6O-go0beZQ8HE_flcSsg)   [Mentioned in Popular Press](https://www.google.com/url?q=https%3A%2F%2Findianexpress.com%2Farticle%2Fopinion%2Fcolumns%2Fgdp-data-former-chief-economic-adviser-arvind-subramanian-modi-government-pmeac-nsc-5821509%2F&sa=D&sntz=1&usg=AFQjCNGiSAP5zk-S9g-kGluV-TnhfKd9ug)
+[Working Paper](http://www.igidr.ac.in/pdf/publication/WP-2019-019.pdf) [Mentioned in Popular Press](https://www.google.com/url?q=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2019-06-20%2Feconomists-slug-it-out-as-debate-rages-over-india-s-gdp-data&sa=D&sntz=1&usg=AFQjCNFsTz0kxX6O-go0beZQ8HE_flcSsg)   [Mentioned in Popular Press](https://www.google.com/url?q=https%3A%2F%2Findianexpress.com%2Farticle%2Fopinion%2Fcolumns%2Fgdp-data-former-chief-economic-adviser-arvind-subramanian-modi-government-pmeac-nsc-5821509%2F&sa=D&sntz=1&usg=AFQjCNGiSAP5zk-S9g-kGluV-TnhfKd9ug)
 
 #### Money and Business Cycle: Evidence from India (With Ashima Goyal) 
 [Working Paper](http://www.google.com/url?q=http%3A%2F%2Fwww.igidr.ac.in%2Fpdf%2Fpublication%2FWP-2018-020.pdf&sa=D&sntz=1&usg=AFQjCNF3avVj95mkTECUWBLvcWZ4pxNuyQ)   [Published Version](https://www.sciencedirect.com/science/article/pii/S1703494918300604)
