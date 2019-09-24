@@ -3,12 +3,15 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-Assistant Professor, Data is future, Aspiring Data Scientist, Work With R, Python, Matlab, Octave & Stata, Love Politics and Economics
+Love Economics and Politics
 
 ### More Information
 
-Currently Pursuing my PhD at IGIDR Mumbai. Interetsed in Time Series, Macroeconomics, Growth and anything that could be exciting. 
+Pursuing PhD at Indira Gandhi Institute of Development Research, Mumbai.  Interested in Macro-econometrics, state space models, Bayesian and Micro-econometrics. Currently, working on propagation of financial shocks in DSGE models, its amplification of non-financial shocks and differences in its strength and propagation mechanism between developed and emerging economies. You can find my research in detail at research page. 
+
+If you are interested in my research or have any feedback/ comment/ query, you can contact me:
+
+
 
 ### Contact me
 
